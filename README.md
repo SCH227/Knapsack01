@@ -11,6 +11,8 @@
 ### mmm, and so?
 
 Solved using Bottom-up Dynamic Programming approach
+Values and weights are read from "data.txt". 
+Capacity W is given in runtime
 
 [![numeric analisys](https://img.shields.io/badge/Dynamic-Programming-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 
