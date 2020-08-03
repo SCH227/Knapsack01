@@ -8,7 +8,7 @@
 
 <p>&nbsp;</p>
 
-## mmm, and so?
+### mmm, and so?
 
 Solved using Bottom-up Dynamic Programming approach
 
